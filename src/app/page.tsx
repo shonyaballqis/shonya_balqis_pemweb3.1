@@ -16,7 +16,7 @@ export default function Home() {
 <div className="flex flex-col items-center justify-center mt-10">
   <div className="w-[180px] h-[180px] overflow-hidden rounded-full border-4 border-gray-300 shadow-lg">
     <Image
-      src="/foto.jpg"
+      src="/Foto.jpg"
       alt="Profile"
       width={180}
       height={180}
