@@ -7,10 +7,12 @@ import {
   SiNextdotjs,
   SiTailwindcss,
 } from "react-icons/si"; 
+import Navbar from "./components/Navbar";
 
 export default function Home() {
   return (
     <main className="min-h-screen bg-gradient-to-br from-gray-800 via-gray-900 to-black text-white flex flex-col items-center justify-center px-6 py-12">
+      <Navbar />
 
 
 <div className="flex flex-col items-center justify-center mt-10">
